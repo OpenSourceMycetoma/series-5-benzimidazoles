@@ -1,7 +1,5 @@
-# MycetOS Series 5 - The Benzimidazoles
+![Series 5 update 26-08-2026](https://github.com/user-attachments/assets/9c3b8e38-3fe2-43b7-9c75-98ce79ce7ba2)
 
-This is the fifth series of compounds being investigated by Open Source Mycetoma ("MycetOS").
+[1] Lim, W.; Nyuykonge, B.; Eadie, K.; Konings, M.; Smeets, J.; Fahal, A.; Bonifaz, A.; Todd, M.; Perry, B.; Samby, K.; Burrows, J.; Verbon, A.; Sande, W. van de. Screening the Pandemic Response Box Identified Benzimidazole Carbamates, Olorofim and Ravuconazole as Promising Drug Candidates for the Treatment of Eumycetoma. PLOS Neglected Tropical Diseases 2022, 16 (2), e0010159. https://doi.org/10.1371/journal.pntd.0010159.
 
-After screening the Pandemic Response Box, two benzimidazoles were found to be able to prolong larval survival in _Madurella mycetomatis_ infected larvae. Furthermore three compounds showed some acivity against _Falciformispora senegalensis_, another prominent mycetoma causative agent.   
-
-Out first paper can be read here: https://pubmed.ncbi.nlm.nih.gov/35120131/
+[2]  Scott C. Faville, Kes Harris-Hamdscomb, Owain Harker, Stephanie Mattison, Hajie Tamorite, Joshua Bristowe, Daniel Daly, Raissa Ege, Haoyuan He, Julian Jones, Abby McCorkindale, Kerry Mei, Ashleigh Monson, Lana Moree, Finley Perkovic, Georgia Rickerby, Jack Robinson, Felix Rudkin, Luke Whibley, Rebecca Worthington, Courtney Ennis, Sara de la Harpe, Thomasin Brind, Andrew Hopkins, Kaleb Winefield, Sarah Hendrickx, Guy Caljon, Benjamin Perry, Andrea J. Vernall; Open Synthesis Network Research in an Undergraduate Laboratory: Development of Benzoxazole Amide Derivatives against Leishmania Parasite. J. Chem. Educ. 12 April 2022; 99 (4): 1682–1690. https://doi.org/10.1021/acs.jchemed.1c01213
